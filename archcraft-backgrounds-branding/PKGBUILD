@@ -2,7 +2,7 @@
 
 pkgname=archcraft-backgrounds-branding
 pkgver=1.0
-pkgrel=2
+pkgrel=3
 pkgdesc="Branding wallpapers for Archcraft"
 url="https://github.com/archcraft-os/archcraft-wallpapers"
 arch=('any')
