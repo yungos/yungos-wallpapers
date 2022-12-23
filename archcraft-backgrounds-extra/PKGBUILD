@@ -2,7 +2,7 @@
 
 pkgname=archcraft-backgrounds-extra
 pkgver=1.0
-pkgrel=3
+pkgrel=4
 pkgdesc="Extra wallpapers for Archcraft"
 url="https://github.com/archcraft-os/archcraft-wallpapers"
 arch=('any')
